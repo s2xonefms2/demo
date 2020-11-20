@@ -1,0 +1,116 @@
+
+.four{
+	width: 100%;
+	height: auto;
+	margin-top: 165px;
+}
+.four .all-four{
+	width: 1600px;
+	height: auto;
+	display: flex;
+	justify-content: flex-end;
+}
+.four .all-four .left-four #text{
+	width: 32rem;
+	height: 8rem;
+	font-size: 36px;
+	line-height: 46px;
+	color: #242f51;
+	font-weight: 600;
+	font-family: 'Poppins', 'SemiBold';
+	float: left;
+}
+.four .all-four .left-four{
+	float: left;
+	margin: 0;
+}
+.four .all-four .left-four #t-a{
+	width: 100%;
+	height: 90px;
+}
+.four .all-four .left-four #t-b{
+	width: 100%;
+	height: 50px;    
+	margin-top: 25px;  
+}
+.four .all-four .left-four #text1{
+	font-size: 16px;
+	line-height: 26px;
+	color: #616368;
+	font-weight: 400;
+	font-family: 'Poppins', 'Regular';
+	width: 395px;
+	height: 50px;
+	float: left;
+}
+.four .all-four .right-four{
+	float: right;
+	margin: 0;
+}
+.four .all-four .left-four .index2{
+	font-size: 16px;
+	line-height: 26px;
+	color: #616368;
+	font-weight: 400;
+	font-family: 'Poppins', 'Regular';
+}
+.four .all-four .left-four .index{
+	width: 39.5rem;
+	height: 5rem;
+	font-size: 20px;
+	line-height: 58px;
+	color: #242f51;
+	font-weight: 600;
+	font-family: 'Poppins', 'SemiBold';
+	margin-top: 30px;
+}
+.four .all-four .left-four .menu-four{
+	width: 100%;
+	height: auto;
+	margin-top: 50px;
+}
+.four .all-four .left-four #menu-mot{
+	width: 265px;
+	height: auto;
+	float: left;
+}
+
+.four .all-four .left-four #menu-hai{
+	width: 265px;
+	height: auto;
+	float: left;
+	margin-left: 90px;
+}
+.four .all-four .left-four #menu-ba{
+	width: 265px;
+	height: auto;
+	float: left;
+}
+.four .all-four .left-four #menu-bon{
+	width: 265px;
+	height: auto;
+	float: left;
+	margin-left: 90px;
+}
+
+.four .all-four .left-four .menu-four-2{
+	margin-top: 60px;
+	width: 629px;
+	height: 310px;
+}
+.four .all-four .left-four #button-four{
+    width: 175px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #2500f9;
+    margin-top: 50px;
+    font-size: 16px;
+	line-height: 44px;
+	color: #ffffff;
+	font-weight: 700;
+	font-family: 'Poppins', 'Bold';
+	border: none;
+}
+.four .all-four .left-four img{
+	margin: 0;
+}

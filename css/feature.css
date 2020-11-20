@@ -1,0 +1,214 @@
+html {
+    font-size: 62.5%;
+}
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+body {
+    line-height: 1.4;
+    font-weight: 400;
+}
+.all{
+    height: auto;
+}
+.container {
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 10rem;
+}
+.header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.header-menu-list {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 3.4rem;
+}
+.header-menu-item {
+    margin-left: 5rem;
+}
+.header-menu-item:last-child {
+    margin-left: 5.5rem;
+}
+.header-menu-link {
+    font-size: 1.6rem;
+    color: #242f51;
+    font-family: 'Poppins', 'Regular';
+}
+
+.logo {
+    font-size: 3rem;
+    font-weight: 600;
+    color: #1a2b5f;
+    margin-right: 8.4rem;
+    font-family: 'Poppins', 'Bold';
+}
+.logo-text {
+    color: #fcae62;
+}
+
+.btn {
+    cursor: pointer;
+    outline: none;
+    font-size: 1.6rem;
+    text-align: center;
+    color: #1a2b5f;
+    display: inline-block;
+    border: 0;
+
+}
+.btn--one {
+    border-radius: 3.5rem;
+    width: 17rem;
+    height: 6rem;
+    background-color: #2500f9;
+    color: #ffffff;
+    font-size: 1.6rem;
+    border: none;
+    line-height: 6rem;
+}
+.btn--one p{
+    font-family:'Bold';
+    font-weight: 700;
+}
+
+.feature-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: url('../img/backgroup1.png') center;
+    height: 84rem;
+}
+
+.feature-item:nth-child(odd) .feature-info {
+    position: relative;
+}
+.feature-image, .feature-info {
+    width: 50%;
+}
+.feature-info #feat-text{
+    position: absolute;
+    right: 0;
+    top: -11.9rem;
+}
+.feature-image #img{
+    float: left;
+    margin-left: 14rem;
+    box-shadow: 0.8rem 0rem 6rem #e6e6e7;
+    border-radius: 4rem;
+}
+.feature-title {
+    font-size: 4rem;
+    font-weight: 600;
+    margin-bottom: 2.5rem;
+}
+.feature-desc {
+    font-weight: 300;
+    font-size: 1.4rem;
+    margin-bottom: 4rem;
+    line-height: 1.8;
+}
+.feature-intro-item {
+    font-weight: 600;
+    margin-bottom: 2rem;
+    text-decoration: underline;
+    font-size: 1.8rem;
+}
+
+.fea-text1{
+    font-size: 1.8rem;
+    font-family: 'Poppins', 'Regular';
+    line-height: 3.5rem;
+    color: #242f51;
+    border-radius: 3rem;
+    background-color: #e2eaed;
+    background-image: url('../img/yes.jpg');
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 3.5rem;
+    margin-right: 14rem;
+}
+.fea-text2{
+    width: 52rem;
+    height: 15rem;
+    font-size: 6rem;
+    line-height: 7.5rem;
+    color: #242f51;
+    font-weight: 600;
+    font-family: 'Poppins', 'SemiBold';
+    margin-top: 2.5rem;
+}
+.fea-text3{
+    width: 52rem;
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+    color: #616368;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+    margin-top: 2.5rem;
+}
+.fea-btn button{
+    width: 17.3rem;
+    height: 6rem;
+    border-radius: 3rem;
+    background-color: #2500f9;
+    text-align: center;
+    margin-top: 4rem;
+    border: none;
+    font-size: 1.6rem;
+    line-height: 4.4rem;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: 'Poppins', 'Bold';
+}
+.fea-btn #text4{
+    margin-left: 3rem;
+    text-decoration: none;
+    font-size: 1.6rem;
+    line-height: 4.4rem;
+    color: #2500f9;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+}
+
+.connect{
+    margin-top: 11rem;
+    text-align: center;
+}
+.connect-title{
+    font-size: 1.6rem;
+    line-height: 2.8rem;
+    color: #242f51;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+}
+.connect-list{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    width: 97rem;
+    margin-top: 3rem;
+}
+.connect-item{
+    width: calc(25% - 22.5px);
+    list-style: none;
+}

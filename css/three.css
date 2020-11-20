@@ -1,0 +1,135 @@
+
+.three .all-three{
+	width: 100%;
+	height: auto;
+}
+.three .all-three .top-three{
+	height: auto;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+.three .all-three .top-three #top{
+	width: auto;
+	height: auto;
+	display: flex;
+	justify-content: center;
+}
+.top-three #top, .right-three {
+    width: 50%;
+}
+.three .all-three .top-three img{
+	margin-right: 10rem;
+}
+.three .all-three .top-three .right-three{
+	margin-right: 3rem;
+}
+.three .all-three .top-three .right-three .text{
+	width: 36rem;
+	height: 13rem;
+	float: left;
+	font-size: 36px;
+	line-height: 46px;
+	color: #242f51;
+	font-weight: 600;
+	font-family: 'Poppins', 'SemiBold';
+
+}
+
+.three .all-three .top-three .right-three .text2{
+	width: 42rem;
+	height: 8.5rem;
+	font-size: 16px;
+	line-height: 26px;
+	color: #616368;
+	font-weight: 400;
+	font-family: 'Poppins', 'Regular';
+}
+.three .all-three .top-three .right-three button{
+    width: 175px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #2500f9;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+	line-height: 44px;
+	color: #ffffff;
+	font-weight: 700;
+	font-family: 'Poppins', 'Bold';
+	border: none;
+}
+
+.three .all-three .bottom-three{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin-top: 150px;
+}
+.three .all-three .bottom-three h1{
+	width: 44rem;
+	height: 9.5rem;
+	font-size: 36px;
+	line-height: 46px;
+	color: #242f51;
+	font-weight: 600;
+	font-family: 'Poppins', 'SemiBold';
+	text-align: center;
+}
+.three .all-three .bottom-three #text{
+	width: 65rem;
+	height: 6rem;
+	margin-top: 40px;
+	font-size: 16px;
+	line-height: 26px;
+	color: #616368;
+	font-weight: 400;
+	font-family: 'Poppins', 'Regular';
+	text-align: center;
+}
+.three .all-three .bottom-three .logo1{
+	height: auto;
+	width: 1010px;
+	display: flex;
+	justify-content: center;
+	margin-top: 90px;
+}
+
+.three .all-three .bottom-three .index-a{
+	font-size: 16px;
+	line-height: 26px;
+	color: #616368;
+	font-weight: 400;
+	font-family:'Poppins', 'Regular';
+	text-align: center;
+}
+.three .all-three .bottom-three .mot{
+	float: left;
+}
+.three .all-three .bottom-three .hai{
+	float: left;
+	margin-left: 9rem;
+}
+.three .all-three .bottom-three .ba{
+	float: left;
+	margin-left: 9rem;
+}
+
+.three .all-three .bottom-three .logo2{
+	height: auto;
+	width: 1010px;
+	display: flex;
+	justify-content: center;
+	margin-top: 80px;
+	height: 230px;
+}
+.three .all-three .bottom-three .index{
+	margin-top: 2rem;
+	font-size: 20px;
+	line-height: 58px;
+	color: #242f51;
+	font-weight: 600;
+	font-family: 'Poppins', 'SemiBold';
+	text-align: center;
+}

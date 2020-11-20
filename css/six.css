@@ -1,0 +1,299 @@
+.six {
+    width: 100%;
+    height: auto;
+}
+
+.six .all-six {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.six .all-six .left-six {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.six .all-six .right-six {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+
+.six .all-six .right-six #logo {
+    margin-top: 40px;
+}
+
+.six .all-six .right-six #t1 {
+    width: 483px;
+    height: 100px;
+    line-height: 50px;
+    margin: 0;
+    font-size: 40px;
+    line-height: 50px;
+    color: #242f51;
+    font-weight: 600;
+    font-family: 'Poppins', 'SemiBold';
+
+}
+
+.six .all-six .right-six #t2 {
+    width: 476px;
+    height: 48px;
+    margin: 0;
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 26px;
+    line-height: 26px;
+    color: #616368;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+}
+
+.six .all-six .right-six #t3 {
+    font-size: 20px;
+    line-height: 58px;
+    color: #242f51;
+    font-weight: 600;
+    font-family: 'Poppins', 'SemiBold';
+}
+
+.six .all-six .right-six #t4 {
+    width: 568px;
+    height: 144px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #616368;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+    float: left;
+}
+
+.six .all-six .right-six #th {
+    float: left;
+    margin-left: 30px;
+}
+
+.six .all-six .right-six #t5 {
+    margin-top: 67px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #242f51;
+    font-weight: 600;
+    font-family:'Poppins', 'SemiBold';
+}
+
+.six .all-six .right-six #t6 {
+    font-size: 18px;
+    line-height: 28px;
+    color: #616368;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+}
+
+.six .all-six .right-six img {
+    float: left;
+    margin-top: 30px;
+}
+
+.six .all-six .right-six .bt-lr {
+    float: left;
+    margin-left: 177px;
+}
+
+.six .all-six .right-six .bt-lr button {
+    float: right;
+    border-radius: 25px;
+    margin-top: 70px;
+    border: 0;
+
+}
+
+.six .all-six .right-six .bt-lr .bt-1 {
+    width: 52px;
+    height: 52px;
+    background-color: #ffffff;
+    font-size: 18px;
+    line-height: 52px;
+    color: #dee1e6;
+    border-radius: 26px;
+    border:0.2rem solid #eff3f8;
+    
+}
+
+.six .all-six .right-six .bt-lr .bt-2 {
+    width: 54px;
+    height: 54px;
+    background-color: #eff3f8;
+    font-size: 18px;
+    line-height: 54px;
+    color: #573cf9;
+    border-radius: 27px;
+}
+
+.six .all-six .right-six .bt-lr #h {
+    width: 1px;
+    height: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+    background-color: #e7e7e7;
+}
+
+.six .bla-six .note {
+    margin-top: 165px;
+    width: 700px;
+    height: 130px;
+    text-align: center;
+}
+
+.six .bla-six .note #tex-a {
+    font-size: 40px;
+    line-height: 58px;
+    color: #242f51;
+    font-weight: 600;
+    font-family: SemiBoil;
+    text-align: center;
+}
+
+.six .bla-six .note #tex-b {
+    font-size: 16px;
+    line-height: 26px;
+    color: #616368;
+    font-weight: 400;
+    font-family: regular;
+    text-align: center;
+    margin-top: 20px;
+    width: 64rem;
+    height: auto;
+}
+
+.six .bla-six .quetion {
+    width: 100%;
+}
+
+.six .bla-six .quetion #qs-a {
+    width: 946px;
+    height: 257px;
+    background-color: #f5f7fa;
+    margin-top: 47px;
+}
+
+.six .bla-six .quetion #qs-tx-1 {
+    font-size: 20px;
+    line-height: 58px;
+    color: #242f51;
+    font-weight: 600;
+    font-family:'Poppins', 'SemiBold';
+    margin-top: 35px;
+    margin-left: 40px;
+}
+
+.six .bla-six .quetion #qs-tx-2 {
+    width: 810px;
+    height: 110px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #616368;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+    margin: 0;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.six .bla-six .quetion .qs-tow-1 {
+    margin-top: 9px;
+    width: 946px;
+    height: 64px;
+    text-align: center;
+    background-color: #f5f7fa;
+}
+
+.six .bla-six .quetion .qs-tow-1 .qs-hg {
+    float: left;
+    font-size: 20px;
+    line-height: 58px;
+    color: #242f51;
+    font-weight: 500;
+    font-family:'Poppins', 'Medium';
+    margin-left: 40px;
+}
+
+.six .bla-six .quetion .qs-tow-1 .qs-logo {
+    float: right;
+    color: #242f51;
+    margin-top: 25px;
+    margin-right: 35px;
+}
+
+.six .three-six {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.six .three-six .left {
+    margin: 0;
+    float: right;
+}
+
+.six .three-six .right {
+    margin: 0;
+    float: left;
+}
+
+.six .three-six #text1 {
+    font-size: 48px;
+    line-height: 58px;
+    color: #242f51;
+    font-weight: 600;
+    font-family: 'Poppins', 'SemiBold';
+    margin-top: 100px;
+}
+
+.six .three-six #text2 {
+    font-size: 16px;
+    line-height: 26px;
+    color: #616368;
+    font-weight: 400;
+    font-family: 'Poppins', 'Regular';
+    width: 635px;
+    margin: 0;
+    margin-top: 30px;
+}
+
+.six .three-six .left .tr-a #a {
+    width: 185px;
+    height: 55px;
+    background-color: #000000;
+    color: white;
+    margin-left: 230px;
+    margin-top: 20px;
+
+}
+
+.six .three-six .left img {
+    margin-left: 10px;
+    width: 185px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.six .three-six .left .a-a {
+    margin-left: 10px;
+
+}
+
+.six .three-six .left .tr-b #b {
+    width: 185px;
+    height: 55px;
+    background-color: #000000;
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-image: url('img/icon-apple.png');
+
+}
